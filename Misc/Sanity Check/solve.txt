@@ -1,0 +1,2 @@
+Found the flag in the discord general channel:
+actf{sice_deets_and_capture_flags}

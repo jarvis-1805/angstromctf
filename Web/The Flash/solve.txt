@@ -1,0 +1,14 @@
+DOM change breakpoints
+Use a DOM change breakpoint when you want to pause on the code that changes a DOM node or its children.
+
+To set a DOM change breakpoint:
+
+1.    Click the Elements tab.
+2.    Go the element that you want to set the breakpoint on.
+3.    Right-click the element.
+4.    Hover over Break on then select Subtree modifications, Attribute modifications, or Node removal.
+
+Adding a break point on line "const _0x24a935 = _0x15c166;" in flash.js.
+Then F10 we'll get to see the changes in the DOM revealing the flag:
+actf{sp33dy_l1ke_th3_fl4sh}
+
